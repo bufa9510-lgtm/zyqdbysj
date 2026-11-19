@@ -1,0 +1,190 @@
+{
+  "original_assets": [
+    {
+      "file": "cad-graduation-office.webp",
+      "bytes": 102160,
+      "sha256": "d5c73cdd82420443f97580ce4c60f3ecc5fadeb6edb9a6221a841551ac75a969"
+    },
+    {
+      "file": "cad-sample-b.webp",
+      "bytes": 77194,
+      "sha256": "f3f44ee7257a4e01cb9e72879b35bd1b04fc8823a93095da47dad5350ccabbc7"
+    },
+    {
+      "file": "cad-student-center.webp",
+      "bytes": 67906,
+      "sha256": "c66a3b7e617f7b709d9c0212c9e06684808abfeb224936846afad37ccc8daf5b"
+    },
+    {
+      "file": "cad-training-one.webp",
+      "bytes": 117292,
+      "sha256": "e64593decb3c8e9d2ef3dcd4a9175f4dbf97b3577a6a6e0e9eb8f1dea1059c25"
+    },
+    {
+      "file": "courtyard.webp",
+      "bytes": 398124,
+      "sha256": "218709efef2405579241277e4fde1bc7ae4c8527b67100d760bb780807d30f3a"
+    },
+    {
+      "file": "exhibition-board.webp",
+      "bytes": 546666,
+      "sha256": "7f0c62466382a68b8eca9b633e25b57338c247769cad1c3745fe6118258336ee"
+    },
+    {
+      "file": "health-poster.webp",
+      "bytes": 289860,
+      "sha256": "ebc939c5b7f3cc74c52219786b0ec79c31aa53ca78418536c433bc1eab3ab5af"
+    },
+    {
+      "file": "living-room.webp",
+      "bytes": 323552,
+      "sha256": "c2bc9cdab8d6713a6c9483507becd826e1913e07fcc5c3ceeab28a126172053a"
+    },
+    {
+      "file": "long-march-poster.webp",
+      "bytes": 1410386,
+      "sha256": "af629df4c79ac3e71469c77648c601309982db1fad51868293c20f1896e76dcc"
+    },
+    {
+      "file": "lotus-elevation.webp",
+      "bytes": 345530,
+      "sha256": "6dc55954e6ba55eb6066d9dc7e1c61b1f16a04734b3933adff0000bae102c370"
+    },
+    {
+      "file": "lotus-perspective.webp",
+      "bytes": 430812,
+      "sha256": "1e9270992ea1c32227ca5c802f51120b7bd907ac6d40fbffda0fcbd796cd871b"
+    },
+    {
+      "file": "lotus-plan-1.webp",
+      "bytes": 398204,
+      "sha256": "d3bf67012df1184b289f63b91f9d7db8b027800831dbfd7217f1edd9491da4e5"
+    },
+    {
+      "file": "lotus-plan-2.webp",
+      "bytes": 336422,
+      "sha256": "d0494d699b6b5b3d952e141fff88d70801cf16308f533b877333be75784bc1f6"
+    },
+    {
+      "file": "painting.webp",
+      "bytes": 373890,
+      "sha256": "4a72842d80469f53d3d753d3bb977226f59a636bd8880feb05e777e800a974ba"
+    },
+    {
+      "file": "red-elevation.webp",
+      "bytes": 429442,
+      "sha256": "ee6f71423298cc8c6a6831471db4efc957f67d7e1ed5ab9e5f010b2e7e36fbf8"
+    },
+    {
+      "file": "youth-poster.webp",
+      "bytes": 401232,
+      "sha256": "bcb7714c7ccc3014402dcae0985249429fb8285106f01d01506fd062eb0368b5"
+    },
+    {
+      "file": "cad-graduation-office.pdf",
+      "bytes": 313705,
+      "sha256": "d004837511576649cbbc060fe5371256b11ed91998b34577984c44f137e4df55"
+    },
+    {
+      "file": "cad-sample-b.pdf",
+      "bytes": 85517,
+      "sha256": "de89616232cf75badac465973563401f12172f00eaf50d73cd9cba870d29f4f6"
+    },
+    {
+      "file": "cad-student-center.pdf",
+      "bytes": 349144,
+      "sha256": "217d222be856e61f8630f36f9bc1179f4b2c802204b7e9101ebe234322651723"
+    },
+    {
+      "file": "cad-training-one.pdf",
+      "bytes": 191076,
+      "sha256": "a3fcb50585c2286cd6682cd327c847871a18e5e5c5cbd1bc221441a23828858f"
+    }
+  ],
+  "lossless_decor": [
+    {
+      "file": "binder-ring.png",
+      "before": 372399,
+      "after": 192210,
+      "rgba_pixels_identical": true
+    },
+    {
+      "file": "flowing-line.png",
+      "before": 145175,
+      "after": 67322,
+      "rgba_pixels_identical": true
+    },
+    {
+      "file": "folder.png",
+      "before": 1048674,
+      "after": 508996,
+      "rgba_pixels_identical": true
+    },
+    {
+      "file": "loop-arrow.png",
+      "before": 174898,
+      "after": 64750,
+      "rgba_pixels_identical": true
+    },
+    {
+      "file": "starburst.png",
+      "before": 328927,
+      "after": 206544,
+      "rgba_pixels_identical": true
+    }
+  ],
+  "previews": [
+    {
+      "source": "cad-graduation-office.webp",
+      "preview": "cad-graduation-office-preview.webp",
+      "dimensions": [
+        1440,
+        1018
+      ],
+      "original_unchanged": true
+    },
+    {
+      "source": "cad-sample-b.webp",
+      "preview": "cad-sample-b-preview.webp",
+      "dimensions": [
+        1018,
+        1440
+      ],
+      "original_unchanged": true
+    },
+    {
+      "source": "cad-student-center.webp",
+      "preview": "cad-student-center-preview.webp",
+      "dimensions": [
+        1440,
+        1018
+      ],
+      "original_unchanged": true
+    },
+    {
+      "source": "cad-training-one.webp",
+      "preview": "cad-training-one-preview.webp",
+      "dimensions": [
+        1440,
+        1018
+      ],
+      "original_unchanged": true
+    }
+  ],
+  "original_html_bytes": 18489895,
+  "optimized_html_bytes": 13045604,
+  "single_file_reduction_percent": 29.4,
+  "online_home_with_local_fonts_and_decor_bytes": 1450414,
+  "original_artwork_and_pdf_files_verified": 20,
+  "portrait_bytes_unchanged": true,
+  "decor_rgba_bytes_identical": true,
+  "cad_full_dimensions_preserved": [
+    4200,
+    2970
+  ],
+  "mobile_viewport_qa": [
+    390,
+    844
+  ],
+  "pdf_download_sha256": "d004837511576649cbbc060fe5371256b11ed91998b34577984c44f137e4df55"
+}
